@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmiraZouari
 - 👀 I’m interested in digital strategy for customer relations and governance 
 - 🌱 I’m currently learning many topics about change management and digital transformation
-- 💞️ I’m looking to collaborate on related topics projects and assigments 
+- 💞️ I’m looking to collaborate on related topics projects and assignements 
 - 📫 How to reach me ? send messages on my inbox
 
 <!---
